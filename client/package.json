@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphiql": "^0.5.0",
+    "graphiql": "^1.4.7",
     "react": "^0.14.10",
     "three": "^0.136.0"
   }
