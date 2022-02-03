@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        images: [ 'server.Dockerfile' ]
+        images: [ 'server.Dockerfile', 'client.Dockerfile' ]
 
     steps:
     - name: Checkout the code
